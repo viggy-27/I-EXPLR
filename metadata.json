@@ -1,0 +1,6 @@
+{
+  "name": "I-EXPLR – Where Every Journey Finds Meaning",
+  "description": "I-EXPLR connects adventurous travelers, local guides, and like-minded companions for transformative journeys across mountains, forests, and offbeat trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
